@@ -1,0 +1,3 @@
+site_name: Event Management System
+nav:
+  - Home: index.md
